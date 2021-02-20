@@ -27,3 +27,10 @@ new subfolder in the current month of the current year.
 
 All review takes place in GitHub issues.
 
+----
+
+There are no fees for publishing.
+
+Anyone can review.
+
+Choose your own license.
