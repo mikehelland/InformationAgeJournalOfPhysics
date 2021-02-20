@@ -1,7 +1,7 @@
 The Information Age Journal of Physics
 
 Scientific knowledge and progress in the age of the internet is severely hampered
-by the journal models.
+by the existing journal model.
 
 It costs thousands of dollars to read journal articles, even though the authors and reviewers
 do most the work and they do it for free.  It's been called a racket and worse.
